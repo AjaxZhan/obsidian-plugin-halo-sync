@@ -42,7 +42,7 @@ Open **Settings → Halo Publisher** and fill in:
 
 | Setting | Description |
 |---------|-------------|
-| **Halo Site URL** | Your blog address, e.g. `https://cagurzhan.cn` |
+| **Halo Site URL** | Your blog address, e.g. `https://YOUR_HALO_URL` |
 | **Personal Access Token** | Generated in Halo Console → User Profile → Personal Access Tokens |
 | **Default Storage Policy** | Attachment policy name, defaults to `default-policy` |
 
@@ -65,7 +65,7 @@ categories: ["Tech", "Life"]
 tags: ["obsidian", "halo"]
 cover: ""
 halo_name: "a7b3c9d2e1"
-halo_url: "https://cagurzhan.cn/archives/a7b3c9d2e1"
+halo_url: "https://YOUR_HALO_URL/archives/a7b3c9d2e1"
 ---
 ```
 

@@ -12,7 +12,7 @@ import { HaloPublisherSettingTab } from "./src/settings";
 import { PublishModal } from "./src/publish-modal";
 
 const DEFAULT_SETTINGS: HaloSettings = {
-	siteUrl: "https://cagurzhan.cn",
+	siteUrl: "",
 	patToken: "",
 	policyName: "default-policy",
 	autoPublish: false,

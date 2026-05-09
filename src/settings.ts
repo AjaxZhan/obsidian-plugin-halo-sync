@@ -20,7 +20,7 @@ export class HaloPublisherSettingTab extends PluginSettingTab {
 
 		new Setting(containerEl)
 			.setName("Halo Site URL")
-			.setDesc("Your Halo blog URL, e.g. https://cagurzhan.cn")
+			.setDesc("Your Halo blog URL, e.g. https://YOUR_HALO_URL")
 			.addText((text) =>
 				text
 					.setPlaceholder("https://your-halo-site.com")
