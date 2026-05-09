@@ -1,0 +1,15 @@
+halo.txt
+node_modules/
+main.js
+*.map
+.DS_Store
+
+# Internal tool state
+.claude/
+.omc/
+.omx/
+
+# Temporary test scripts
+test-*.mjs
+*.tmp
+*.temp

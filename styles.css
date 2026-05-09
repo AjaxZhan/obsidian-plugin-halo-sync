@@ -1,0 +1,40 @@
+.halo-publish-modal .modal-content {
+	padding: 16px 0;
+}
+
+.halo-publish-modal .halo-publish-info {
+	margin-bottom: 16px;
+}
+
+.halo-publish-modal .halo-publish-info-row {
+	display: flex;
+	justify-content: space-between;
+	padding: 4px 0;
+	border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.halo-publish-modal .halo-publish-info-row:last-child {
+	border-bottom: none;
+}
+
+.halo-publish-modal .halo-publish-label {
+	font-weight: 600;
+	color: var(--text-muted);
+}
+
+.halo-publish-modal .halo-publish-value {
+	color: var(--text-normal);
+}
+
+.halo-publish-modal .halo-publish-actions {
+	display: flex;
+	justify-content: flex-end;
+	gap: 8px;
+	margin-top: 20px;
+}
+
+.halo-publish-modal .halo-publish-error {
+	color: var(--text-error);
+	margin-top: 12px;
+	font-size: 0.9em;
+}

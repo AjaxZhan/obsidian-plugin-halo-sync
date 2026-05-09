@@ -1,0 +1,9 @@
+{
+	"id": "halo-publisher",
+	"name": "Halo Publisher",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Publish Obsidian notes to Halo blog with image upload support.",
+	"author": "ajaxzhan",
+	"isDesktopOnly": true
+}
